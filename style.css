@@ -1,0 +1,106 @@
+
+
+body{
+    background-color: #FFFFFF;
+}
+.image1{
+    background-color: #F5F5F7;
+    padding:10px 150px;
+    position: fixed;
+    top: 0;
+}
+ 
+
+.select{
+    height: 7vh;
+    width: 70%;
+    border: none;
+    padding-left: 10px;
+}
+
+.a{
+    height: 35px;
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.nav2{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    height: 50px;
+    padding:10px 110px;
+    position: fixed;
+    top: 70px;
+    backdrop-filter: blur(100px);
+    
+}
+
+.hero{
+    margin:150px 400px;
+}
+
+.over{
+    color: #0071E3;
+    margin-top: 100px;
+}
+
+.over:hover{
+    background-color: #0071E3;
+    color: white;
+}
+
+.ai{
+    margin-left: -400px;
+}
+
+.bg-image2{
+    /* background-image: url(/image/hero_ai__fsutbxvuni62_large_2x-removebg-preview.png); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 30px;
+    width: 100%;
+    font-weight: 100px;
+}
+
+.iphone{
+    background-image: url(/images/hero_iphone15pro__i70z9oz3hj2i_large_2x.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    /* position: relative; */
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.bg-image3{
+    background-image: url(/images/hero_iphone15_announce__uuemlcwczn6u_large_2x.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.main{
+
+}
+
+.bg-image-4{
+    background-image: url(/images/promo_ipadpro__ch217v9v7no2_large_2x.jpg);
+    /* background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center; */
+}
